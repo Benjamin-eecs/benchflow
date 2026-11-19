@@ -1,0 +1,6 @@
+visible CPUs: 2
+MemTotal: 2048 MiB
+OMP_NUM_THREADS=1 PYTHONHASHSEED= PYTHONPATH=
+Modal folders on sys.path: []
+nofile 1024/524288, stack 8192/unlimited KiB
+su nobody: nofile 1024/524288, stack 8192/unlimited KiB

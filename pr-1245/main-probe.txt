@@ -1,0 +1,6 @@
+visible CPUs: 18
+MemTotal: 208036 MiB
+OMP_NUM_THREADS=2 PYTHONHASHSEED=0 PYTHONPATH=/pkg/:/root/
+Modal folders on sys.path: ['/pkg', '/root']
+nofile 1048576/1048576, stack unlimited/unlimited KiB
+su nobody: nofile 1024/1048576, stack unlimited/unlimited KiB

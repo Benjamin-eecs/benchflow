@@ -1,0 +1,3 @@
+FROM python:3.12-slim
+ENV OMP_NUM_THREADS=1
+WORKDIR /app
